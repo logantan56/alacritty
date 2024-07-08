@@ -154,7 +154,15 @@ mods = "Shift"
 
 [window]
 opacity = 0.85
+option_as_alt = "OnlyLeft"
 
 [window.dimensions]
-columns = 0
-lines = 0
+columns = 130
+lines = 42
+
+[font]
+size = 15
+
+[font.normal]
+family = "MesloLGS Nerd Font"
+style = "Regular"
